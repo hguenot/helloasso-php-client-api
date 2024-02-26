@@ -1,0 +1,13 @@
+# StatisticsShareItem
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **int** |  | [optional] 
+**share_amount** | **int** |  | [optional] 
+**share_item_amount** | **int** |  | [optional] 
+**share_options_amount** | **int** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
